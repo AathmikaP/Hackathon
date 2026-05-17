@@ -46,7 +46,7 @@ Number of correct answers
 
 
 **What AI does**
-It generates questions based on the notes provided and adds point based on which questions we get right.
+It generates questions based on the notes provided and adds point based on which questions we get right. It also provides analysis based on how we answered the questions.
 
 **Who built what**
 Vaishnavi: Project integration, system architecture, deployment
